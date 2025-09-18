@@ -1,4 +1,4 @@
-This is an OpenGL renderer for the C UI layout library clay.h  
+This is an OpenGL renderer for the C UI layout library [Clay](https://github.com/nicbarker/clay) 
 An intended use case for this renderer is game UIs, both debugging and in game. Because it is entirely c and c++ no multi-language programming is required (if the game is written in c++), allowing for easy modification of game variables through the UI.
 
 Example UI generated using example.cpp:

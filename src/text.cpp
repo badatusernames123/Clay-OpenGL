@@ -143,7 +143,7 @@ int create_character_atlas(CharacterAtlas* atlas, std::string font_filepath, uin
     
     // Save to file
     std::string png_filepath = font_filepath + "_" + std::to_string(font_size) + ".png";
-    stbi_write_png(png_filepath.c_str(), texture_width, texture_height, 1, texture.data(), texture_width);
+    // stbi_write_png(png_filepath.c_str(), texture_width, texture_height, 1, texture.data(), texture_width);
 
     // Upload texture
     uint32_t texture_id;
