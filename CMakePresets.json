@@ -8,9 +8,6 @@
       "cacheVariables": {
         "CMAKE_BUILD_TYPE": "Debug",
         "CMAKE_TOOLCHAIN_FILE": "C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake",
-        "CMAKE_CUDA_STANDARD": "20",
-        "CMAKE_CUDA_STANDARD_REQUIRED": "ON",
-        "CMAKE_CUDA_ARCHITECTURES": "86;89",
         "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
         "CLAY_BUILD_EXAMPLES": "ON"
       }

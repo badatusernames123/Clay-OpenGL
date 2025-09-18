@@ -158,7 +158,6 @@ int main()
 
     std::vector<std::string> image_filepaths = { 
         "images/pikachu.png",
-        "images/all_might.jpg",
     };
     std::vector<std::string> font_filepaths = {
         "fonts/arial.ttf",

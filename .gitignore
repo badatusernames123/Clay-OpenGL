@@ -1,7 +1,6 @@
 build.bat
 create.bat
 run.bat
-images/
 fonts/
 build/
 .vscode/
